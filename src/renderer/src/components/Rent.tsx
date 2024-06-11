@@ -85,6 +85,7 @@ export default function Rent({
                 start,
                 end,
                 rentPrice: price,
+                payedAmount,
                 payed: isPayed
               }
             ]
